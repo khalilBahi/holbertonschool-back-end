@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" api : first use """
+""" api """
 import requests
 import sys
 
